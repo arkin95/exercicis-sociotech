@@ -1,2 +1,2 @@
-# algoritm
+# algo/ritmo
 repo/algoproject
